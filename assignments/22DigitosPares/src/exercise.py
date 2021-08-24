@@ -21,7 +21,7 @@ if (n%2==0):
 else:
     d4=0
 fd=d1+d2+d3+d4
-print("El número de dígitos pares es: ", fd)
+print("The number of pair digits is: ", fd)
 
 
 if __name__ == '__main__':
